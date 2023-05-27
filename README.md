@@ -264,7 +264,7 @@ If you like canon-zhen or my projects, you can buy me a ☕ coffee 🍉 / 🍦 o
 
 ---
 
-[ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
+<!-- [ContactMe]:https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png
 
 <div align="center">
   <a href="https://user-images.githubusercontent.com/29084184/218641537-f40efdfc-fbdd-4ce8-b69c-4fed996437b4.png" alt="WX: Yida_Zhang2" title="WX: Yida_Zhang2" target="_blank"\>
@@ -285,7 +285,7 @@ If you like canon-zhen or my projects, you can buy me a ☕ coffee 🍉 / 🍦 o
     <div align="right">
         <sup>Ads</sup> &emsp;&emsp;&emsp;
     </div>
-</div>
+</div> -->
 
 
 
