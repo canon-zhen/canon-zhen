@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </details>
 
-  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+  ✨ 作为团队主要负责人，申请立项国家级大学生创新创业训练项目-----基于图像识别的酒类掺伪鉴别系统
 
 
 <!--my introduction end -->
@@ -362,10 +362,10 @@ These columns are automatically updated by github action.
 </td></tr>
 </tbody></table>
 
-If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
+If you like canon-zhen or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://canon-zhen.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://canon-zhen.github.io/sponsor.html](https://canon-zhen.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
-<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> &emsp;&emsp; <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://canon-zhen.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> &emsp;&emsp; <a href='https://ko-fi.com/U7U427H25' target='_blank'><img height='42' style='border:10px;height:42.11px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
 
 <p align="center">
@@ -376,198 +376,13 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 <!--END_SECTION:sponsors-->
 
-### :hearts: [Acknowledgements](https://github.com/sponsors/Charmve)
+### :hearts: [Acknowledgements](https://github.com/sponsors/canon-zhen)
 
-<b>Top <i>24</i> of my followers</b> will be displayed here:
+<b>Top <i>8</i> of my followers</b> will be displayed here:
 
-<!--START_SECTION:top-followers-->
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/CHYbeta">
-        <img src="https://avatars2.githubusercontent.com/u/18642224" width="42.4px;" alt="CHYbeta"/>
-      </a>
-      <br />
-      <a href="https://github.com/CHYbeta">chybeta</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/riusksk">
-        <img src="https://avatars2.githubusercontent.com/u/3008098" width="42.4px;" alt="riusksk"/>
-      </a>
-      <br />
-      <a href="https://github.com/riusksk">泉哥</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YuePanEdward">
-        <img src="https://avatars2.githubusercontent.com/u/34207278" width="42.4px;" alt="YuePanEdward"/>
-      </a>
-      <br />
-      <a href="https://github.com/YuePanEdward">Yue Pan </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tonghuaroot">
-        <img src="https://avatars2.githubusercontent.com/u/23011166" width="42.4px;" alt="tonghuaroot"/>
-      </a>
-      <br />
-      <a href="https://github.com/tonghuaroot">TonghuaRoot(童话)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sanster">
-        <img src="https://avatars2.githubusercontent.com/u/3998421" width="42.4px;" alt="Sanster"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sanster">Qing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ChinaVolvocars">
-        <img src="https://avatars2.githubusercontent.com/u/11059094" width="42.4px;" alt="ChinaVolvocars"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChinaVolvocars">Atlantis</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Hsury">
-        <img src="https://avatars2.githubusercontent.com/u/26821563" width="42.4px;" alt="Hsury"/>
-      </a>
-      <br />
-      <a href="https://github.com/Hsury">Ruoyang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/quxiaofeng">
-        <img src="https://avatars2.githubusercontent.com/u/1077425" width="42.4px;" alt="quxiaofeng"/>
-      </a>
-      <br />
-      <a href="https://github.com/quxiaofeng">Xiaofeng Qu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DequanWang">
-        <img src="https://avatars2.githubusercontent.com/u/8817763" width="42.4px;" alt="DequanWang"/>
-      </a>
-      <br />
-      <a href="https://github.com/DequanWang">Dequan Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/h4m5t">
-        <img src="https://avatars2.githubusercontent.com/u/70065998" width="42.4px;" alt="h4m5t"/>
-      </a>
-      <br />
-      <a href="https://github.com/h4m5t">h4m5t</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/district10">
-        <img src="https://avatars2.githubusercontent.com/u/5262037" width="42.4px;" alt="district10"/>
-      </a>
-      <br />
-      <a href="https://github.com/district10">TANG ZhiXiong</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/deepkolos">
-        <img src="https://avatars2.githubusercontent.com/u/12824616" width="42.4px;" alt="deepkolos"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepkolos">DeepKolos</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yuchuangu85">
-        <img src="https://avatars2.githubusercontent.com/u/7369323" width="42.4px;" alt="yuchuangu85"/>
-      </a>
-      <br />
-      <a href="https://github.com/yuchuangu85">CodeMX</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/diggerdu">
-        <img src="https://avatars2.githubusercontent.com/u/5636045" width="42.4px;" alt="diggerdu"/>
-      </a>
-      <br />
-      <a href="https://github.com/diggerdu">Sino Begonia(Xingjian. Du)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xsser">
-        <img src="https://avatars2.githubusercontent.com/u/1850771" width="42.4px;" alt="xsser"/>
-      </a>
-      <br />
-      <a href="https://github.com/xsser">xsser</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/eggfly">
-        <img src="https://avatars2.githubusercontent.com/u/922837" width="42.4px;" alt="eggfly"/>
-      </a>
-      <br />
-      <a href="https://github.com/eggfly">eggfly</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Koras02">
-        <img src="https://avatars2.githubusercontent.com/u/67436032" width="42.4px;" alt="Koras02"/>
-      </a>
-      <br />
-      <a href="https://github.com/Koras02">kobiad_ros</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhanghuidinah">
-        <img src="https://avatars2.githubusercontent.com/u/31201589" width="42.4px;" alt="zhanghuidinah"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhanghuidinah">Hui Zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/likyoo">
-        <img src="https://avatars2.githubusercontent.com/u/44317497" width="42.4px;" alt="likyoo"/>
-      </a>
-      <br />
-      <a href="https://github.com/likyoo">李开宇</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bipabo1l">
-        <img src="https://avatars2.githubusercontent.com/u/20816849" width="42.4px;" alt="bipabo1l"/>
-      </a>
-      <br />
-      <a href="https://github.com/bipabo1l">bipabo1l</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jovany-wang">
-        <img src="https://avatars2.githubusercontent.com/u/19473861" width="42.4px;" alt="jovany-wang"/>
-      </a>
-      <br />
-      <a href="https://github.com/jovany-wang">Qing Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/i0Ek3">
-        <img src="https://avatars2.githubusercontent.com/u/9475646" width="42.4px;" alt="i0Ek3"/>
-      </a>
-      <br />
-      <a href="https://github.com/i0Ek3">i0Ek3</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WenyXu">
-        <img src="https://avatars2.githubusercontent.com/u/32535939" width="42.4px;" alt="WenyXu"/>
-      </a>
-      <br />
-      <a href="https://github.com/WenyXu">Weny Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/temirlanZH">
-        <img src="https://avatars2.githubusercontent.com/u/86709653" width="42.4px;" alt="temirlanZH"/>
-      </a>
-      <br />
-      <a href="https://github.com/temirlanZH">tima?!</a>
-    </td>
-  </tr>
-</table>
 
 <!--END_SECTION:top-followers-->
 
-<!--
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
 
 -->
 
@@ -588,7 +403,7 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 </div>
 
- :performing_arts: Leave a message to me? --> https://github.com/Charmve/Charmve/issues
+ :performing_arts: Leave a message to me? --> https://github.com/canon-zhen
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <!-- ![bili-card](https://bilibili-readme-stats.vercel.app/api?id=62079686&card=default) -->
@@ -622,7 +437,3 @@ If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 /
 
 🚧 **My Todoist Stats: ⬇️**
 
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
--->
- 
