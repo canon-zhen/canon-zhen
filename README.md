@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/canon-zhen?tab=repositories) 
 - 🌱 I’m currently studying in ECNU, and I am studying for a software Master of Engineering graduate student
-- 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+- 🤔 My goal is simple: to become a technology giant and have assets exceeding 100 million as soon as possible
+- ❤️ I like playing basketball, playing guitar, and running
+- 💬 Be free to ask me about anything [here](https://github.com/canon-zhen/canon-zhen).
 
 ---
 
@@ -233,8 +231,8 @@ If you like canon-zhen or my projects, you can buy me a ☕ coffee 🍉 / 🍦 o
 <!--END_SECTION:sponsors-->
 
 ### :hearts: [Acknowledgements](https://github.com/sponsors/canon-zhen)
-
-<b>Top <i>8</i> of my followers</b> will be displayed here:
+<!-- 
+<b>Top <i>8</i> of my followers</b> will be displayed here: -->
 
 
 <!--END_SECTION:top-followers-->
